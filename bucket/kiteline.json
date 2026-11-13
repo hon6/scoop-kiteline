@@ -1,10 +1,10 @@
 {
-    "version": "1.0.40",
+    "version": "1.0.42",
     "description": "Phone remote for Claude Code, Codex and other coding agents on your computer",
     "homepage": "https://tars.betac.cn/en/",
     "license": "AGPL-3.0-only",
-    "url": "https://github.com/hon6/kiteline/releases/download/v3.49.35/Kiteline-Windows-1.0.40.zip",
-    "hash": "26db592e4e3e986cac006bce318fcf8bf39b6c95723e4239ecde67d100514216",
+    "url": "https://github.com/hon6/kiteline/releases/download/v3.49.37/Kiteline-Windows-1.0.42.zip",
+    "hash": "fc2c97819c48199c71304ffe905a3c385406f919cbb3d87f03cf785a7cb4247a",
     "extract_dir": "Kiteline",
     "shortcuts": [
         [
